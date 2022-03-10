@@ -40,6 +40,7 @@ paginate: true
     ti footer{left:-107px;bottom:-2.7px}
     it footer{right:-107px;bottom:-2.7px}
 
+    /* creating twocolumn format */
     twocolumn column1 {width:48%;float:left;}
     twocolumn column2 {width:48%;float:right;}
     
